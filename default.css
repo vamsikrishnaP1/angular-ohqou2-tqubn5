@@ -1,0 +1,19 @@
+.control_wrapper {
+  max-width: 1080px;
+  min-width: 245px;
+  margin: 20px 0;
+}
+#defaultfileupload .e-upload.e-control {
+  position: relative;
+  margin: 20px 0;
+}
+.e-upload {
+  float: none;
+}
+.e-upload .e-upload-actions {
+  float: none;
+  text-align: right;
+}
+.sequential-upload {
+  padding-top: 30px;
+}
